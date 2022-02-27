@@ -1,5 +1,5 @@
 # core-fast-endpoints
-Net Fast Endpoints package review
+.Net6  Fast Endpoints package review
 
 
 https://fast-endpoints.com/
