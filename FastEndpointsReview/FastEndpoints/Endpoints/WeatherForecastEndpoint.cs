@@ -22,6 +22,9 @@ namespace FastEndpointsApi.Endpoints
             Verbs(Http.GET);
             Routes("weather/{days}");
             AllowAnonymous();
+
+            //Swagger Response Attributes
+            Describe(x => x.Produces<WeatherForecastsResponse>(200, "application/json"));
         }
 
         public override async Task HandleAsync(WeatherForecastRequest req, CancellationToken ct)

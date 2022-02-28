@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccf5402c-4504-4f7d-987d-ba83ac838947": {
+      "ProjectGuid": "ccf5402c-4504-4f7d-987d-ba83ac838947",
+      "DisplayName": "FastEndpointsApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
